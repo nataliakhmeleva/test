@@ -2,3 +2,7 @@ good bye!
 some other line
 123
 line from user2
+<<<<<<< HEAD
+=======
+another line from user2
+>>>>>>> f1faee169c9e4d9f5d23d0e9b2e0be3a12934b96
